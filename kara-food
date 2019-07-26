@@ -5,4 +5,4 @@ url="https://www.sodexo.fi/ruokalistat/output/daily_json/35956/${date}/fi"
 response=`curl -s ${url}`
 food=`echo $response | jq -r ".courses[0,1,2].title_fi" | sed "s/$/\n/g"`
 
-bot-say "$food"
+$(dirname $0)/bot-say "$food"
