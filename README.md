@@ -1,6 +1,12 @@
 # 🥒 kara-food 🥖
 
-## Getting started
+## The official channel
+
+You'll probably want to join the [official channel](https://t.me/kara_food) for daily updates at 08:00.
+
+![pic text](./screen.jpg)
+
+## Getting started with your own channel
 
 All you need to do is to create two files in your home directory. `bot-token`, which contains your own bot's token, and `bot-target`, which contains the id of the user/group/channel you wish to send the messages to (e.g. `@alice`, `123someid` or `@somechannel`).
 
