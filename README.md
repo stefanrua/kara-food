@@ -4,7 +4,7 @@
 
 You'll probably want to join the [official channel](https://t.me/kara_food) for daily updates at 08:00.
 
-![pic text](./screen.jpg)
+![pic text](./screen_small.jpg)
 
 ## Getting started with your own channel
 
