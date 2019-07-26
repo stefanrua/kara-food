@@ -1,4 +1,4 @@
-# kara-food
+# 🥒 kara-food 🥖
 
 ## Getting started
 
