@@ -18,3 +18,10 @@ touch ~/bot-target
 The program is divided in two parts based on functionality. The script called `bot-say` sends messages using Telegram's bot API, and `kara-food` acquires today's food menu from Sodexo's web site, and then sends it using `bot-say`.
 
 Adding the scripts to your `$PATH` can prove useful if you wish to send messages through your bot at any time using `bot-say "<some message>"`.
+
+## Dependencies
+
+In order to run these scripts you need to have the following programs installed on your computer:
+
+- `curl`
+- `jq`
