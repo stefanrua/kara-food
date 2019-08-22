@@ -28,4 +28,4 @@ In order to run these scripts you need to have the following programs installed 
 
 ## Maintainership
 
-As @stefanrua is leaving Nokia, we proudly announce @suruaku as the new maintainer of this project :'). My boy.
+As [@stefanrua](https://github.com/stefanrua) is leaving Nokia, we proudly announce [@suruaku](https://github.com/suruaku) as the new maintainer of this project :'). My boy.
