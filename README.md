@@ -25,3 +25,7 @@ In order to run these scripts you need to have the following programs installed 
 
 - `curl`
 - `jq`
+
+## Maintainership
+
+As @stefanrua is leaving Nokia, we proudly announce @suruaku as the new maintainer of this project :'). My boy.
